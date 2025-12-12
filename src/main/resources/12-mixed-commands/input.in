@@ -1,5 +1,5 @@
-01-01-2025-07-00 | create_exam | AlphaExam | 03-01-2025-09-00 | 03-01-2025-13-00
-01-01-2025-07-01 | create_exam | BetaExam | 04-01-2025-10-00 | 04-01-2025-14-00
+01-01-2025-07-00 | create_exam | AlphaExam | 03-01-2025-08-15 | 03-01-2025-13-00
+01-01-2025-07-01 | create_exam | BetaExam | 04-01-2025-09-00 | 04-01-2025-14-00
 01-01-2025-07-05 | add_question | open_ended | AlphaExam | Ana | 2 | 10 | Describe OOP | object oriented programming
 01-01-2025-07-06 | add_question | fill_in_the_blank | AlphaExam | Dan | 1 | 6 | Java is ___ typed | statically
 01-01-2025-07-10 | print_exam | AlphaExam
