@@ -32,9 +32,15 @@ Example Commands:
 
 How to Run
 1. Clone the repository:
-# git clone https://github.com/your-username/online-exam-platform.git
+```
+git clone https://github.com/your-username/online-exam-platform.git
+```
 2. Compile the project:
-# javac org/example/*.java
+```
+javac org/example/*.java
+```
 3. Run the application:
 Provide the test folder name as a command-line argument. The program expects an input.in file in src/main/resources/<test_folder>/.
-# java org.example.Main "00-test"
+```
+java org.example.Main "00-test"
+```
