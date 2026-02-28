@@ -1,8 +1,8 @@
-Online Examination Platform
+# Online Examination Platform
 A robust, Java-based simulation of an online examination system (similar to Moodle) designed 
 to manage exams, diverse question types, student enrollments, and automated grading. 
 
-Features
+# Features
 Dynamic Exam Management: Create and schedule exams with specific start and end timestamps.
 Diverse Question Types: 
 * Multiple Choice: Standard A/B/C/D options
@@ -20,17 +20,17 @@ The following collections were used:
 * TreeSet: Leveraged with custom Comparators to handle complex sorting logic (for example sorting questions by 
 difficulty, then alphabetically by text) without manual sorting algorithms
 
-Input Command Format
+# Input Command Format
 The system processes commands in the following format:
 timestamp | command_name | parameter1 | parameter2 | ...
 
-Example Commands:
+# Example Commands:
 * create_exam: Initializes a new exam session
 * add_question: Adds a specific question type to an existing exam
 * submit_exam: Processes student answers and calculates the final grade
 * generate_report: Outputs a sorted list of student results to a file
 
-How to Run
+# How to Run
 1. Clone the repository:
 ```
 git clone https://github.com/your-username/online-exam-platform.git
