@@ -41,3 +41,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Exclude test folder
+src/test/
+
+# Exclude build artifacts and IDE files
+build/
+.gradle/
+.idea/
+*.class
+bin/
